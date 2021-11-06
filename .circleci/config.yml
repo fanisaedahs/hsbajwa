@@ -9,4 +9,4 @@ jobs:
       - checkout
       - run: |
             chmod +x project.sh
-            ./project.sh
+
